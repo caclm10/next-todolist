@@ -1,0 +1,10 @@
+{
+    "typescript.preferences.preferTypeOnlyAutoImports": true,
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.semi": true,
+    "prettier.singleQuote": false,
+    "files.associations": {
+        "*.css": "tailwindcss"
+    }
+}
